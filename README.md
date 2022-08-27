@@ -15,7 +15,7 @@
   <img align="center" alt="Kenner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kenner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kenner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kenner-pic" height="150" style="border-radius:50px;" src="<iframe src="![geek-boy-segurando-um-notebook](https://user-images.githubusercontent.com/112190377/187041275-07f434b6-1e51-4adf-ad3b-ab82683cb6db.png)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/112190377/187047030-80c81286-5a52-4103-97a8-4384df1677c0.png">
 </div>
   
 ##
