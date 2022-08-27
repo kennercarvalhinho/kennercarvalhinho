@@ -3,19 +3,18 @@
 - 🎓 Estudante de Engenharia de Software
 - 🌱 Começando a aprender: HTML/CSS/Javascript/Python
 - 👨‍💻 Procurando me aprofundar nessas linguagens... Por enquanto 
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/kennercarvalhinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennercarvalhinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennercarvalhinho&layout=compact&langs_count=4&theme=tokyonight"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=kennercarvalhinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennercarvalhinho&layout=compact&langs_count=4&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kenner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kenner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kenner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kenner-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/1012864405945466950/1012864405945466953/1012866075622387802">
+  <img align="right" alt="Kenner-pic" height="150" style="border-radius:50px;" src="<iframe src="">
 </div>
   
 ##
